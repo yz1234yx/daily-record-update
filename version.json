@@ -1,11 +1,11 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.10",
-  "note": "新增「设置」页：存放位置、关于、检查更新都收进去了；支持在线升级。",
+  "versionCode": 111,
+  "versionName": "1.0.11",
+  "note": "导出 Excel 的按钮移进「设置」页，首页更清爽。",
   "apks": [
-    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.10.apk",
-    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.10.apk",
-    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.10.apk",
-    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.10.apk"
+    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.11.apk",
+    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.11.apk",
+    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.11.apk",
+    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.11.apk"
   ]
 }
