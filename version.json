@@ -1,12 +1,12 @@
 {
-  "versionCode": 112,
-  "versionName": "1.0.12",
-  "note": "导出 Excel 的按钮移进「设置」页，首页更清爽；检查更新更可靠。",
+  "versionCode": 113,
+  "versionName": "1.0.13",
+  "note": "开始/结束时间的分钟改为在当前分钟前后 20 分钟内随机。",
   "apks": [
-    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.12.apk",
-    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.12.apk",
-    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.12.apk",
-    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.12.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.12.apk"
+    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.13.apk",
+    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.13.apk",
+    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.13.apk",
+    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.13.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.13.apk"
   ]
 }
