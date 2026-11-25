@@ -1,12 +1,12 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.14",
-  "note": "同一小时内，结束时间必须晚于开始时间；跨小时不校验。",
+  "versionCode": 115,
+  "versionName": "1.0.15",
+  "note": "开始/结束时间新增分钟输入框：留空取当前分钟，填了用填的分钟。",
   "apks": [
-    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.14.apk",
-    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.14.apk",
-    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.14.apk",
-    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.14.apk",
-    "https://ghfast.top/https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.14.apk"
+    "https://cdn.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.15.apk",
+    "https://fastly.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.15.apk",
+    "https://gcore.jsdelivr.net/gh/yz1234yx/daily-record-update@main/daily-record-1.0.15.apk",
+    "https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.15.apk",
+    "https://ghfast.top/https://raw.githubusercontent.com/yz1234yx/daily-record-update/main/daily-record-1.0.15.apk"
   ]
 }
